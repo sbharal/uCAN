@@ -1,0 +1,6 @@
+post
+like	--	postedby, post, time(serial of post)
+comment	--	postedby, comment, time(serial of post)
+newsfeed
+
+//Sab hoye gael! :D

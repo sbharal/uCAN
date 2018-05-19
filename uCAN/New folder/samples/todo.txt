@@ -1,0 +1,15 @@
+index.php 				-- Homepage
+signup.php				-- account creation
+*createaccount.php		-- create account on database
+*validate.php			-- check login
+home.php				-- news feed
+*updatestatus.php		-- updates status to database
+post.php				-- show a single post
+*logout.php				-- logout the user
+profile.php				-- shows a profile
+editprofile.php			-- shows a profile editor
+*updateprofile.php		-- send updated profile to DBMS
+*likeupdate.php			-- add or delete a like
+*commentupdate.php		-- add or delete a comment
+
+//Tiding Completed! :D
